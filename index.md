@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
-
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+## Welcome to Gegardus GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Gegardus/Gegardusoctocat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
